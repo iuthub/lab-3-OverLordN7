@@ -1,0 +1,37 @@
+body{
+	background-image: url("images/picture.jpg");
+	margin: 10%;
+}
+div{
+	border: 10px white solid;
+	background-color: white;
+}
+span{
+	border-bottom: 2px blue dashed;
+}
+h1{
+	text-align: right;
+}
+#Head,#Head1{
+	background-color: #A8F0F0 ;
+	text-align: right;
+	font-size: 14pt;
+}
+.Article{
+	border: 4px #C2E9E9 solid;
+	background-color: #E8FBFB;
+	padding: 5px;
+	margin-top: 10px;
+	height: 210px;
+	width: 80%;
+	float: right;
+}
+.picture{
+	float: right;
+}
+.sidebar{
+	border: 2px red dashed;
+	padding: 10px;
+	width: 180px;
+	float: left;
+	}
